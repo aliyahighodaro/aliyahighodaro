@@ -39,7 +39,7 @@ I'm a curious and driven developer-in-training, passionate about creating clean,
 A full-stack web application that lets users explore, filter, and learn about Canada’s national historic sites. The app features user registration and login (with bcrypt password hashing), MongoDB session management, protected routes, conditional rendering, and custom forms for site editing and sign-up.
 
 > `Node.js` • `Express` • `MongoDB` • `Tailwind CSS` • `DaisyUI` 
-🔗 https://assignments-web.vercel.app
+🔗 historic-sites-web-app.vercel.app
 > [View Code](https://github.com/kaossnextdoor/national-historic-sites-app)
 
 **Key Features:**  

@@ -1,6 +1,6 @@
 👋 Hi, I’m Aliyah Ighodaro
 
-🎓 Computer Programming and Analysis student at Seneca Polytechnic  
+🎓 3rd year Computer Programming and Analysis student at Seneca Polytechnic  
 💻 Aspiring Full-Stack Developer | Problem Solver  
 📍 Based in Toronto, ON, Canada  
 

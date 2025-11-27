@@ -32,26 +32,29 @@ I'm a curious and driven developer-in-training, passionate about creating clean,
 `TensorFlow` • `LangChain` • `Docker` • `Azure/OpenAI`
 
 ---
+## 🌟 Highlighted Project
 
-## 📌 Featured Projects
+### 🖼️ **Full-Stack Artwork Discovery Platform**
 
-### 🏛️ National Historic Sites App  
-A full-stack web application that lets users explore, filter, and learn about Canada’s national historic sites. The app features user registration and login (with bcrypt password hashing), MongoDB session management, protected routes, conditional rendering, and custom forms for site editing and sign-up.
+> A secure, production-ready web application for art exploration with complete user authentication system.
 
-> `Node.js` • `Express` • `MongoDB` • `Tailwind CSS` • `DaisyUI` 
-🔗 historic-sites-web-app.vercel.app
-> [View Code](https://github.com/kaosnextdoor/historic-sites-web-app)
+**🛠️ Built With:**
+- **Frontend:** Next.js, React, Context API
+- **Backend:** Node.js, Express, REST API
+- **Database:** MongoDB Atlas
+- **Authentication:** JWT, Passport.js
+- **Deployment:** Vercel
 
-**Key Features:**  
-- Secure user authentication with login history tracking  
-- Filterable interactive sites by province/territory  
-- Custom form submissions with validation  
-- Conditional UI rendering based on login state  
-- Fully deployed with Vercel  
+**🎯 Key Accomplishments:**
+- Implemented secure JWT authentication flow
+- Designed persistent data storage for user preferences
+- Built protected client-side routing system
+- Created real-time state synchronization
+
+**🔗 Links:**
+- [Live Demo](https://art-beta-opal.vercel.app) | [Frontend Source]() | [Backend API]()
 
 ---
----
-
 ---
 
 ## 📫 Let’s Connect
